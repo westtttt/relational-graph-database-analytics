@@ -155,11 +155,7 @@ Run the Cypher files in the following order:
 
 ## Report
 
-The full report is included in:
-
-```text
-!report/database_assignment_report.pdf
-```
+📄 [View Full Report (PDF)](report/database_assignment_report.pdf)
 
 ---
 
