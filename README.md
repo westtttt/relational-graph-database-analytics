@@ -158,7 +158,7 @@ Run the Cypher files in the following order:
 The full report is included in:
 
 ```text
-report/database_assignment_report.pdf
+!report/database_assignment_report.pdf
 ```
 
 ---
